@@ -84,6 +84,11 @@ Class in jade can be define using . and className after that for eg:
 p.paragraph
 p element with "paragraph" as its class name
 
+###IDs
+IDs in ajde can be define using # and IDname after that for eg:
+
+#container
+div element with "container" as its IDs name
 
 
 
