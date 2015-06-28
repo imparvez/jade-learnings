@@ -48,6 +48,22 @@ p
 	| <h1>This is an heading</h1>
 	| Hope you enjoy this
 
+###Nesting
+Nesting in JADE is same as what we prefer while writing HTML document
+Hit tab to have proper indentation in our text editor. Same goes with Jade such as
+
+div
+	p
+		h1 This is header
+	p
+		strong I'm strong
+	div
+		small Say HIII!!!!
+
+While nesting, add a new line and hit a tab to have a proper indentation
+
+
+
 
 
 
