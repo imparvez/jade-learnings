@@ -34,3 +34,39 @@ input
 Try this in your terminal to see the results for self closing tags
 $echo img | jade
 
+###Text:
+Everything after the first word in jade is text
+
+p hello world
+Text gets wrapped around tags in jade
+
+Note: For multiple line use PIPE |
+Jade understands PIPE as a placeholder such as
+
+p
+	| Hello world
+	| <h1>This is an heading</h1>
+	| Hope you enjoy this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
