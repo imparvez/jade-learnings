@@ -78,6 +78,13 @@ While nesting, add a new line and hit a tab to have a proper indentation
 		You just have to hit enter
 		and write your new comment
 
+###Classes
+Class in jade can be define using . and className after that for eg:
+
+p.paragraph
+p element with "paragraph" as its class name
+
+
 
 
 
