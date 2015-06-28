@@ -19,3 +19,18 @@ Create one file name "index.jade"
 Write basic tags in it(Which will be taught to you in this tutorials)
 Then type: jade index.jade
 Voila!!!!You will get a new HTML rendered document.
+
+###Tags:
+First word in JADE is always a Tag such as,
+p
+div
+h1 etc
+
+After the first word, whatever content is gets wrapped inside that same tag.
+Jade knows about self closing tags such as,
+img
+input
+
+Try this in your terminal to see the results for self closing tags
+$echo img | jade
+
