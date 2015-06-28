@@ -62,6 +62,31 @@ div
 
 While nesting, add a new line and hit a tab to have a proper indentation
 
+###Comments
+- Single Line Comments
+	//Your Comments goes here
+	p your text
+	div
+		h1 header
+
+-Unbuffered Commnets
+	//- Your Comments here won't show up in HTML document
+	p Your text
+
+-Block Comments
+	// This is multi line comments
+		You just have to hit enter
+		and write your new comment
+
+
+
+
+
+
+
+
+
+
 
 
 
