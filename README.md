@@ -90,6 +90,16 @@ IDs in ajde can be define using # and IDname after that for eg:
 #container
 div element with "container" as its IDs name
 
+###Attributes
+All the elements in HTML documents that holds attributes are written in a very 
+special way in jade
+
+elementName(attributeName='attributeValue') TEXT
+ 
+For eg:
+a(href='google.com') Google
+
+
 
 
 
